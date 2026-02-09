@@ -15,7 +15,7 @@ Education
   * Advisor: Leanne Hirshfield
 * M.S. in Computer Science, University of Colorado Boulder, December 2023
 * B.S. in Biomedical Engineering, University of Massachusetts Lowell, May 2021
-  * Minor in Mechanical Engineering, Commonwealth Honors
+  * Commonwealth Honors
   * Honors Thesis: "Mental Workload During Matching Tasks in Human-Robot Teams"
   * Advisor: Yi-Ning Wu
 
@@ -62,18 +62,3 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
