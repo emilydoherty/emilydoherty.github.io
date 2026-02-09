@@ -23,7 +23,7 @@ repository               : "emilydoherty/emilydoherty.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/profile.png"
+  avatar           : "/images/profile.png"
   name             : "Emily Doherty"
   pronouns         : "she/her"  
   bio              : "Ph.D. researcher in Computer Science and Cognitive Science"
