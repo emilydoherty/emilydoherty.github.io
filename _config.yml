@@ -23,14 +23,14 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "images/profile.png"
   name             : "Emily Doherty"
   pronouns         : "she/her"  
   bio              : "Ph.D. researcher in Computer Science and Cognitive Science"
   location         : "Boulder, Colorado"
   employer         :
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "emily.doherty@colorado.edu" 
 
   # Academic websites
   academia         : # URL
@@ -57,7 +57,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
